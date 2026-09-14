@@ -14,7 +14,7 @@ body {
   width: 415px;
 }
 .topbar {
-  width: 500px;
+  width: 100000000000000px;
   height: 40px;
   background-color: black;
   display: flex;
@@ -26,5 +26,5 @@ body {
   align-items: center;
   margin-top: 20px;
   justify-content: center;
-  
+
 }
