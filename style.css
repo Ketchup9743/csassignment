@@ -1,6 +1,6 @@
 .larry {
   display: flex;
-  justify-content: center;
+  justify-content : center;
   align-items: top;
   min-height: 100vh;
   margin: 0;   
