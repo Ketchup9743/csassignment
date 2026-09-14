@@ -12,13 +12,14 @@ body {
 .larryimg {
   height: 440px;
   width: 415px;
+  display: flex;
+  justify-content: center;
 }
 .topbar {
-  width: 100000000000000px;
-  height: 40px;
+  width: 100;
+  height: 60px;
   background-color: black;
-  display: flex;
-  align-items: top;
+  display: block;
 }
 .profile {
   display: flex;
