@@ -1,9 +1,8 @@
 .larry {
   display: flex;
-  justify-content : center;
-  align-items: top;
-  min-height: 100vh;
-  margin: 0;   
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
   color: #278EF5;
 }
 body {
@@ -18,10 +17,10 @@ body {
 }
 .profile {
   width: 100%;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 20px;
   justify-content: center;
 }
 .bio {
