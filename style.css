@@ -15,7 +15,7 @@ body {
 }
 .topbar {
   width: 500px;
-  height: 35px;
+  height: 40px;
   background-color: black;
   display: flex;
   align-items: top;
