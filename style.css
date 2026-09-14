@@ -1,0 +1,11 @@
+.larry {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  min-height: 100vh;
+  margin: 0;   
+  color: #13447D;
+}
+body {
+    background-color: #1C1E1F;
+}
