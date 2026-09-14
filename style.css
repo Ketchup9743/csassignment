@@ -18,3 +18,9 @@ body {
   height: 30px;
   background-color: black;
 }
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
