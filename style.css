@@ -44,4 +44,7 @@ body {
     gap: 0.25rem;
     color: #27ADF5;
   }
+  p {
+    color: #27ADF5;
+  }
 }
